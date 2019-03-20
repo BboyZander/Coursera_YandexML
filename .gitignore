@@ -6,4 +6,21 @@ __pycache__/
 # C extensions
 *.so
 
-# Jupyter Notebook
+# formats
+**/*.csv
+**/*.tsv
+**/*.dat
+**/*.json
+
+# folders
+**/umn_foursquare_datasets/
+**/ipynb_checkpoints/
+/.ipynb_checkpoints
+
+**/test1/
+**/test2/
+**/test3/
+
+**/quiz1/
+**/quiz2/
+**/quiz3/
